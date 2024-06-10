@@ -1,4 +1,6 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tharushka Dinujaya
+[![MasterHead](https://gifdb.com/images/high/pixel-art-animated-toyoi-yuuta-yl28fl6e0r6ozvvk.gif)](https://rishavchanda.io)
+
+<h2> Hi 👾, I'm Tharushka Dinujaya </h2>
 Student | Cyber security | 自学<3 ✨
 
 * 🌍  I'm based in Sri Lanka
