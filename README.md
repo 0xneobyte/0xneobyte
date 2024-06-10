@@ -4,7 +4,7 @@
 Student | Cyber security | 自学<3 ✨
 
 * 🌍  I'm based in Sri Lanka
-* 🖥️  See my portfolio at [Portfolio](http://tharushkadinujaya05.github.io)
+* 🖥️  See my portfolio at [</>](http://tharushkadinujaya05.github.io)
 * ✉️  You can contact me at [tharushkadinujaya05@gmail.com](mailto:tharushkadinujaya05@gmail.com)
 * 🧠  I'm learning Tailwind
 * 🤝  I'm open to collaborating on WebDev Projects
@@ -64,7 +64,7 @@ Student | Cyber security | 自学<3 ✨
 
 ### GitHub Stats
 
-<a href="http://www.github.com/tharushkadinujaya05"><img src="https://github-readme-stats.vercel.app/api?username=tharushkadinujaya05&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tharushkadinujaya05's GitHub stats" /></a>
+[![tharushkadinujaya05's GitHub | Stats](https://stats.quine.sh/tharushkadinujaya05/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tharushkadinujaya05)
 
 <a href="http://www.github.com/tharushkadinujaya05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushkadinujaya05&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
