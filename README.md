@@ -1,4 +1,4 @@
-[![MasterHead](https://gifdb.com/images/high/pixel-art-animated-toyoi-yuuta-yl28fl6e0r6ozvvk.gif)](https://rishavchanda.io)
+[![MasterHead](https://gifdb.com/images/high/pixel-art-animated-toyoi-yuuta-yl28fl6e0r6ozvvk.gif)]()
 
 <h2> Hi 👾, I'm Tharushka Dinujaya </h2>
 Student | Cyber security | 自学<3 ✨
