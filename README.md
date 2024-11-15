@@ -63,6 +63,9 @@ Student | Cyber security | 自学<3 ✨
 </a>
 </p>
 
+### Support 
+<p><a href="https://www.buymeacoffee.com/neo_3xd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="neo_3xd" /></a></p><br><br>
+
 ### GitHub Stats
 
 [![tharushkadinujaya05's GitHub | Stats](https://stats.quine.sh/tharushkadinujaya05/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tharushkadinujaya05)
