@@ -2,6 +2,7 @@
 
 <h2> Hi 👾, I'm Tharushka Dinujaya </h2>
 Student | Cyber security | 自学<3 ✨
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushkadinujaya05&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 * 🌍  I'm based in Sri Lanka
 * 🖥️  See my portfolio at [</>](http://tharushkadinujaya05.github.io)
