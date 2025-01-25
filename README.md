@@ -49,16 +49,16 @@ Student | Cyber security | 自学<3 ✨
 <a href="https://www.dev.to/tharushkadinujaya05" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
 </a>
-<a href="https://discord.com/users/neo_3xd" target="_blank" rel="noreferrer">
+<a href="https://discord.com/users/0xneobyte" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
 </a>
-<a href="https://www.github.com/tharushkadinujaya05" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/0xneobyte" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 </a>
 <a href="https://www.linkedin.com/in/tharushkadinujaya05" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </a>
-<a href="https://www.x.com/Neo_3xd" target="_blank" rel="noreferrer">
+<a href="https://www.x.com/0xneobyte" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
 </a>
 </p>
@@ -68,7 +68,7 @@ Student | Cyber security | 自学<3 ✨
 
 ### GitHub Stats
 
-[![tharushkadinujaya05's GitHub | Stats](https://stats.quine.sh/tharushkadinujaya05/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tharushkadinujaya05)
+[![tharushkadinujaya05's GitHub | Stats](https://stats.quine.sh/tharushkadinujaya05/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=0xneobyte)
 
-<a href="http://www.github.com/tharushkadinujaya05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushkadinujaya05&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/0xneobyte"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushkadinujaya05&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
