@@ -70,5 +70,5 @@ Student | Cyber security | 自学<3 ✨
 
 [![tharushkadinujaya05's GitHub | Stats](https://stats.quine.sh/tharushkadinujaya05/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=0xneobyte)
 
-<a href="http://www.github.com/0xneobyte"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushkadinujaya05&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/0xneobyte"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0xneobyte&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
