@@ -7,7 +7,7 @@ Student | Cyber security | 自学<3 ✨
 * 🌍  I'm based in Sri Lanka
 * 🖥️  See my portfolio at [</>](http://tharushkadinujaya05.github.io)
 * ✉️  You can contact me at [tharushkadinujaya05@gmail.com](mailto:tharushkadinujaya05@gmail.com)
-* 🧠  I'm learning Tailwind
+* 🧠  I'm learning Blockchain
 * 🤝  I'm open to collaborating on WebDev Projects
 * ⚡  git commit -m "Ctrl+C, Ctrl+V enthusiast"
 
