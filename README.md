@@ -67,10 +67,9 @@ Student | Cyber security | 自学<3 ✨
 <p><a href="https://www.buymeacoffee.com/neo_3xd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="neo_3xd" /></a></p><br><br>
 
 ### GitHub Stats
-
-[![tharushkadinujaya05's GitHub | Stats](https://stats.quine.sh/0xneobyte/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=0xneobyte)
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=0xneobyte">
-  <img src="https://stats.quira.sh/0xneobyte/languages-over-time?theme=dark" width="500" alt="0xneobyte's GitHub | Languages Over Time">
-</a>
 <a href="http://www.github.com/0xneobyte"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0xneobyte&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xneobyte&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xneobyte&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xneobyte&theme=github_dark)
+
 
