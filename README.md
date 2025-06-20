@@ -71,5 +71,7 @@ just curious. maybe a Polymath 🦆
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xneobyte&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xneobyte&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xneobyte&theme=github_dark)
+![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xneobyte&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+
 
 
