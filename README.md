@@ -64,7 +64,7 @@ just curious. maybe a Polymath 🦆
 </p>
 
 ### Support 
-<p><a href="https://www.buymeacoffee.com/neo_3xd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="neo_3xd" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/0xneobyte"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="neo_3xd" /></a></p><br><br>
 
 ### GitHub Stats
 <a href="http://www.github.com/0xneobyte"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0xneobyte&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
