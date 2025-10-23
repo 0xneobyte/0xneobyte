@@ -5,11 +5,9 @@ just curious. maybe a Polymath 🦆
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushkadinujaya05&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 * 🌍  I'm based in Sri Lanka
-* 🖥️  See my portfolio at [</>](http://tharushkadinujaya05.github.io)
 * ✉️  You can contact me at [tharushkadinujaya05@gmail.com](mailto:tharushkadinujaya05@gmail.com)
-* 🧠  I'm learning Blockchain
-* 🤝  I'm open to collaborating on WebDev Projects
-* ⚡  git commit -m "Ctrl+C, Ctrl+V enthusiast"
+* 🧠  I'm learning AI & ML
+* 🤝  I'm open to collaborating on WebDev & AI Projects
 
 ### Skills
 
