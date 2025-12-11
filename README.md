@@ -11,10 +11,11 @@ just curious. maybe a Polymath 🦆
 
 ### Skills
 
-<p>
-  </p></a><a href="https://skillicons.dev">
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,c,cpp,java,js,php,python,bash,vscode,vim,sublime,html,nextjs,css,tailwind,bootstrap,mongodb,mysql,xd,figma,ethereum,solana,wordpress,arduino,linux,apple,raspberrypi">
   </a>
+</p>
 
 ### Socials
 
