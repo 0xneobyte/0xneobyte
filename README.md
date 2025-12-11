@@ -13,28 +13,16 @@ just curious. maybe a Polymath 🦆
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,c,cpp,java,js,php,python,bash,vscode,vim,sublime,html,nextjs,css,tailwind,bootstrap,mongodb,mysql,xd,figma,anaconda,arch,wordpress,arduino,linux,apple,raspberrypi,aws,cloudflare,debian,flask,gcp,kali,linux,mongodb,nodejs,obsidian,postman,,redis,supabase,ts,vim">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,bash,html,css,nodejs,nextjs,flask,fastapi,tailwind,bootstrap,mongodb,mysql,redis,supabase,docker,kubernetes,git,githubactions,graphql,postman,aws,gcp,cloudflare,vscode,vim,sublime,obsidian,figma,xd,arduino,wordpress,anaconda,linux,debian,kali,arch,ubuntu,apple,raspberrypi">
   </a>
 </p>
 
 ### Socials
 
 <p align="left">
-<a href="https://www.dev.to/tharushkadinujaya05" target="_blank" rel="noreferrer">
-<img src="devto" width="32" height="32" />
-</a>
-<a href="https://discord.com/users/0xneobyte" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-</a>
-<a href="https://www.github.com/0xneobyte" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</a>
-<a href="https://www.linkedin.com/in/tharushkadinujaya05" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a>
-<a href="https://www.x.com/0xneobyte" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,linkedin,twitter,discord,devto">
+  </a>
 </p>
 
 ### Support 
