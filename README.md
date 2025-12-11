@@ -11,9 +11,9 @@ just curious. maybe a Polymath 🦆
 
 ### Skills
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,c,cpp,java,js,php,python,bash,vscode,vim,sublime,html,nextjs,css,tailwind,bootstrap,mongodb,mysql,xd,figma,ethereum,solana,wordpress,arduino,linux,apple,raspberrypi" alt="Skills: Git, Docker, Kubernetes, C, C++, Java, JavaScript, PHP, Python, Bash, VS Code, Vim, Sublime Text, HTML, Next.js, CSS, Tailwind CSS, Bootstrap, MongoDB, MySQL, Adobe XD, Figma, Ethereum, Solana, WordPress, Arduino, Linux, Apple, Raspberry Pi">
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,c,cpp,java,js,php,python,bash,vscode,vim,sublime,html,nextjs,css,tailwind,bootstrap,mongodb,mysql,xd,figma,anaconda,arch,wordpress,arduino,linux,apple,raspberrypi,aws,cloudflare,debian,flask,gcp,kali,linux,mongodb,nodejs,obsidian,postman,,redis,supabase,ts,vim">
   </a>
 </p>
 
@@ -21,7 +21,7 @@ just curious. maybe a Polymath 🦆
 
 <p align="left">
 <a href="https://www.dev.to/tharushkadinujaya05" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
+<img src="devto" width="32" height="32" />
 </a>
 <a href="https://discord.com/users/0xneobyte" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
