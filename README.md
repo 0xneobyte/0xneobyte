@@ -13,7 +13,7 @@ just curious. maybe a Polymath 🦆
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,c,cpp,java,js,php,python,bash,vscode,vim,sublime,html,nextjs,css,tailwind,bootstrap,mongodb,mysql,xd,figma,ethereum,solana,wordpress,arduino,linux,apple,raspberrypi">
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,c,cpp,java,js,php,python,bash,vscode,vim,sublime,html,nextjs,css,tailwind,bootstrap,mongodb,mysql,xd,figma,ethereum,solana,wordpress,arduino,linux,apple,raspberrypi" alt="Skills: Git, Docker, Kubernetes, C, C++, Java, JavaScript, PHP, Python, Bash, VS Code, Vim, Sublime Text, HTML, Next.js, CSS, Tailwind CSS, Bootstrap, MongoDB, MySQL, Adobe XD, Figma, Ethereum, Solana, WordPress, Arduino, Linux, Apple, Raspberry Pi">
   </a>
 </p>
 
